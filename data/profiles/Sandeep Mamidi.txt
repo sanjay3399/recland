@@ -1,0 +1,7 @@
+Name:Sandeep Mamidi
+Headline:Hadoop Engineer at JB Micro Inc
+Location:San Francisco Bay Area
+Summary:Big Data/Hadoop Data Integration Engineer with expertise inHive,Oozie,Spark,MySQL,Netezza,Teradata,SQL/PL SQL Procedures,Pig,Data Warehousing Architecture.
+
+Experience:4 yrs 4 mos,1 yr 10 mos,4 mos,4 mos,1 yr 6 mos,
+Skills:SQL,Software Development,Microsoft SQL Server,Linux,MySQL,Agile Methodologies,Microsoft Office,Hadoop,PL/SQL,Data Warehousing,ETL,Big Data,Oracle,Unix Shell Scripting,Apache Pig,Databases,Hive,Data Warehouse Architecture,Business Intelligence,

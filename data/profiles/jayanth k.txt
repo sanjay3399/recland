@@ -1,0 +1,5 @@
+Name:jayanth k
+Headline:Java Developer at Miracle Software Systems
+Location:Farmington, Michigan
+Experience:1 yr 8 mos,1 mo,
+Skills:Java,Hadoop,Big Data,Shell Scripting,MySQL,Oracle,Apache Spark,Apache Pig,Red Hat Linux,Amazon Web Services (AWS),Cluster Management,Cluster Analysis,Job Tracking,Extract, Transform, Load (ETL),Web Services,

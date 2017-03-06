@@ -1,0 +1,8 @@
+Name:Vasu Doppalapudi
+Headline:Certified Cloudera/ HortonWorks/ DataBricks/ Oracle Developer
+Location:United States
+Summary:Open Source Contributor.Software Developer with interests in Distributed Computing, Data Structures,Algorithms & Data Science.Experience in building Complex Processing, Analytic pipelines & Scalable Solutions, Development, Testing & Automation.
+See more
+
+Experience:1 yr 4 mos,9 mos,
+Skills:Big Data,Hadoop,Core Java,Scala,Python,MapReduce,Data Structures,Algorithms,Design Patterns,Hive,Apache Pig,HBase,Apache Spark,Apache Hive,Sqoop,Oozie,Jenkins,Maven,Avro,apache crunch,Bash,SQL,JSON,Unix,JUnit,Impala,NoSQL,Mockito,Spring MVC,

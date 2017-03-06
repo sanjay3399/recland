@@ -1,0 +1,5 @@
+Name:Rohith K
+Headline:Lead Hadoop Engineer at VISA
+Location:San Francisco Bay Area
+Experience:3 yrs 11 mos,1 yr 4 mos,2 yrs 1 mo,
+Skills:Hadoop,Big Data,Shell Scripting,Linux,Distributed Systems,Java,Unix,Python,Cloud Computing,Web Services,SQL,Agile Methodologies,Oracle,SDLC,MySQL,Scalability,Databases,Software Development Life Cycle (SDLC),Unix Shell Scripting,Amazon Web Services (AWS),Hive,Management,Vendor Management,MapR,Perl,High Availability,Big Data Analytics,Spark,Kafka,Impala,Ruby,Cassandra,Solr,Hbase,Yarn,Apache Pig,Flume,Sqoop,Sentry,Encryption,

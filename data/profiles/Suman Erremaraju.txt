@@ -1,0 +1,8 @@
+Name:Suman Erremaraju
+Headline:Senior Engineer at American Express
+Location:Greater New York City Area
+Summary:Experienced UI/Front-end Designer and Developer, proficient in all things in Javascript, as well as advancedlevel HTML and CSS knowledge. I have worked on several high profile, dynamically large scale, data intensive projects over the past 11 years. I've had exposure in a variety of industries like banking and financials and travel, entertainment, Insurance domains.Specialties: - MEAN/ MERN Stack- StrongLoop / Node.js- HTML5 and CSS3- Javascript (and respective frameworks)- Angular- SASS- Responsive Design- Mobile UX and Design
+See more
+
+Experience:5 mos,6 yrs 10 mos,1 yr 2 mos,2 yrs 5 mos,
+Skills:Full Stack Development,Mean Stack,JavaScript,HTML 5,AngularJS,jQuery,Node.js,CSS3,Responsive Web Design,Adobe Illustrator,Testing,User Experience,Agile Methodologies,Omniture,SoapUI,User Interface Design,XML,D3.js,HTML,User Interface,CSS,React JS,MySQL,Requirements Analysis,AJAX,JSP,Software Development,Scrum,Web Applications,JSON,Subversion,SOA,Tomcat,Web Development,Eclipse,HTML5,ECMAScript,Bootstrap,Strong loop,Git & GitHub,TypeScript,Cascading Style Sheets (CSS),Webpack and BABEL,JavaServer Pages (JSP),

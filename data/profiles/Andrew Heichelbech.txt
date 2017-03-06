@@ -1,0 +1,5 @@
+Name:Andrew Heichelbech
+Headline:Coalmouse, LLC taking the thorns out of Big Data
+Location:Greater Chicago Area
+Experience:1 yr 10 mos,1 yr 10 mos,2 yrs,
+Skills:Unix,ITIL,Disaster Recovery,Enterprise Architecture,Solaris,Security,System Administration,Linux,Infrastructure,Integration,Data Center,IT Strategy,Virtualization,Troubleshooting,IT Management,Networking,Data Warehousing,High Availability,Solution Architecture,Hadoop,Servers,Shell Scripting,Cluster,VMware,Oracle,Cloud Computing,Project Management,SAN,Unix Shell Scripting,Red Hat Linux,Firewalls,Exadata,Architecture,Network Design,Storage Area Networks,IT Operations,Information Security,DNS,AIX,System Architecture,Storage,Windows Server,Performance Tuning,TCP/IP,Operating Systems,VMware ESX,Server Architecture,Netbackup,Oral & Written Communication Skills,Perl,

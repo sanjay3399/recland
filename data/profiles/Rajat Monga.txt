@@ -1,0 +1,5 @@
+Name:Rajat Monga
+Headline:Engineering Director, TensorFlow
+Location:San Francisco Bay Area
+Experience:7 yrs 9 mos,1 yr 10 mos,1 yr 4 mos,4 yrs,11 mos,
+Skills:Distributed Systems,Scalability,Machine Learning,Hadoop,C++,Algorithms,Big Data,Data Mining,MapReduce,Search,High Performance Computing,Artificial Intelligence,Natural Language Processing,Parallel Computing,

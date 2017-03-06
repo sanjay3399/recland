@@ -1,0 +1,5 @@
+Name:Manju Shivanna
+Headline:Senior Data Infrastructure Engineer at Lithium Technologies
+Location:San Francisco Bay Area
+Experience:1 yr 2 mos,1 yr 11 mos,9 mos,3 mos,3 mos,
+Skills:Hadoop,Java,Hive,Big Data,Amazon Web Services (AWS),Apache Pig,Distributed Systems,Cassandra,Linux,Cloud Computing,NoSQL,SDLC,High Availability,Databases,MapReduce,MySQL,

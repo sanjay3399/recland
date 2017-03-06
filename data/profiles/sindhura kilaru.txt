@@ -1,0 +1,8 @@
+Name:sindhura kilaru
+Headline:UI Developer at Aruba Networks , an HP company
+Location:Milpitas, California
+Summary:● Experience in Web Application Development covering front-end/UI using the web technologies like HTML5,XHTML, CSS3, JAVASCRIPT, ANGULARJS,JQUERY, JSON, XML and AJAX● Well versed with Object Oriented and Functional Programing aspects of Javascript● Good Knowledge of AngularJS for Front end architecture● Client side scripting using AJAX and jQuery● Hands on Front-end Design Optimization and RESTful Web Services experience● Worked on implementation of popular JavaScript Design Patterns like Module, Memoization and Curry● Developed pages using HTML5 and CSS3● Responsive web design with media queries and fluid/elastic layouts● Experienced with GitHub usage for version control and collaboration● Good Knowledge of the MVC (Model, View, Controller)design pattern using Javascript as programming platform, AngularJS for frontend and Express for backend.● Implementation of Object Oriented Programming and Data Structures and Algorithms with Javascript as platform. ● Proven track record in creative problem solving, collaboration and taking initiative in improving work processes.
+See more
+
+Experience:2 yrs 2 mos,3 mos,4 mos,1 yr 1 mo,5 mos,
+Skills:JavaScript,AngularJS,HTML5,CSS3,Agile Methodologies,REST,jQuery,AJAX,JSON,Unix,Java,Testing,TCP/IP,XML,MySQL,OSPF,VLAN,CSS,Scrum,Selenium,JavaScriptMVC,OSI,Cascading Style Sheets (CSS),

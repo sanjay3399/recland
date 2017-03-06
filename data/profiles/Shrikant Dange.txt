@@ -1,0 +1,8 @@
+Name:Shrikant Dange
+Headline:Consultant at Bitwise Inc
+Location:Richmond, Virginia
+Summary:A passionate and enthusiastic software developer, eager and flexible in adapting new technologies.A ComputerScience Graduate from State University of New York at Binghamton.Solid computer science background (OO Design, Data Structures and Algorithms, Design Patterns, Distributed Systems) . Varied and extensive experience with object oriented, distributed projects especially using java related technologies. Experienced in developing web applications using J2EE, Servlet and JSP & Spring framework.Possess knowledge and have experience with software development using Agile software development principles.Hands on experience with Amazon Web Services (S3, EC2, AWS KMS).Currently:Working as a Consultant, working on distributed applications involving multiple technologies like Hadoop, Cascading framework, Java. Building an application to improve virtual credit card experience in corporate world. Built an extremely efficient multi-threaded application to reduce the processing time of tokenization from 120 hours to 8 minutes.
+See more
+
+Experience:9 mos,9 mos,1 yr 11 mos,
+Skills:Core Java,Java,C++,C,Agile Application Development,Amazon Web Services (AWS),Amazon S3,Amazon EC2,JUnit,Mockito,Java Enterprise Edition,Servlets,XML,XSLT,Multithreading,Hibernate,JavaScript,Linux,PL/SQL,SQL,Unix,MySQL,Hadoop,Cascading,Hive,Apache Thrift,Oracle Database,Spring Framework,HTML5,CSS,JSP,SDLC,Web Applications,OOP,Oracle,Scala,Apache Spark,

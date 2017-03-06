@@ -1,0 +1,8 @@
+Name:Manoj Verma
+Headline:Experienced Software Architect
+Location:San Francisco Bay Area
+Summary:Highly experienced and motivated technologist with over 15 years of experience in IT industryStrong focus onenterprise wide portal applications, provide consulting services to the clients in portal implementation/development/supportSpecialties: SharePoint 2013, 2010 , MOSS 2007, Enterprise systems, Big Data Initiatives, Hadoop, C#, Java,Oracle WebCenter Interaction, ALUI 6.5, Plumtree, Hortonworks certified Hadoop developerSoftware ArchitectHadoopBig DataNoSQLJavaJavascriptJQueryMapReduceASP.NETRebrandingWorkflows Custom and Sharepoint DesignerMasterpages and Page layoutsCustom WebpartContent ManagementInfopath FormsCustom timer JobsSolution packagingEnterprise SearchBusiness IntelligenceSharepoint MigrationsSharepoint Dashboards using SSAS, SSRS ( Reports , Cubes, scorecards)
+See more
+
+Experience:1 yr 1 mo,1 yr 8 mos,7 mos,
+Skills:Hadoop,Cassandra,NoSQL,Big Data,MongoDB,Portals,Business Intelligence,Enterprise Software,SharePoint,.NET,SharePoint Designer,ASP.NET,Solution Architecture,Web Services,Microsoft SQL Server,Enterprise Content Management,C#,IIS,Performancepoint,jQuery,JavaScript,Java,Enterprise Architecture,Content Management,SSRS,Business Process Design,Consulting,.NET Framework,

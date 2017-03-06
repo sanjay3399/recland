@@ -1,0 +1,5 @@
+Name:Kiranmai Reddy
+Headline:Hadoop Developer/Architect at AT&T
+Location:Dallas/Fort Worth Area
+Experience:8 yrs 10 mos,2 yrs 3 mos,1 yr 5 mos,
+Skills:Java,SQL,Hadoop,XML,Oracle,Java Enterprise Edition,JavaScript,Web Services,MySQL,Core Java,Unix,Agile Methodologies,Requirements Analysis,PL/SQL,SDLC,Software Development Life Cycle (SDLC),Software Development,Microsoft SQL Server,

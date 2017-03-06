@@ -1,0 +1,8 @@
+Name:Balaji Mahadevan
+Headline:Senior Bigdata Consultant
+Location:San Ramon, California
+Summary:• Over 16 years of experience in System Architecture, Infrastructure Design, Capacity Planning, DatabaseDesign, Development and Implementation. • 4 years of strong experience in Hadoop eco system, Cassandra, HAWQ, Greenplum, Hive, Postgresql databases.• End-to-End Implementation of Sustainable Hadoop echo-System.• 11 years of in-depth experience in database architecture, design and development, administration and maintenance of SQL Server 2008 / 2005 / 2000 large scale databases• Highly experienced in database server performance tuning and optimization and troubleshooting and performance tuning for Complex SQL queries• Excellent Interpersonal, Management and Communication skills with ability to deliver quality results with minimum supervisionSpecialties: 1. Senior Database Administrator (HAWQ, Greenplum, Cassandra, Postgresql)2. Hadoop Administration3. Unix Adminstration
+See more
+
+Experience:1 yr 1 mo,4 yrs,4 yrs 3 mos,1 yr 1 mo,4 yrs 1 mo,
+Skills:Data Warehousing,Databases,SQL,Replication,Data Modeling,Performance Tuning,Disaster Recovery,SSIS,Microsoft SQL Server,ETL,T-SQL,Unix,Data Migration,Cloud Computing,Database Design,High Availability,Capacity Planning,

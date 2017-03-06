@@ -1,0 +1,5 @@
+Name:Chitrang Jain
+Headline:Sr. DevOps Engineer
+Location:San Francisco, California
+Experience:1 yr 9 mos,3 mos,2 yrs 2 mos,7 mos,4 mos,
+Skills:C,Linux,Unix,C++,Java,Shell Scripting,Virtualization,Perl,Cloud Computing,SQL,TCP/IP,Vendor Management,Python,MySQL,HTML,SDLC,Software Engineering,Business Analysis,LTE,Integration,Network Security,Databases,Testing,JavaScript,System Administration,Oracle,Agile Methodologies,Telecommunications,Operating Systems,Software Development,Internet Protocol Suite (TCP/IP),CDMA,GSM,Unix Shell Scripting,Architecture,Web Services,Amazon Web Services (AWS),DevOps,Eclipse,Wireless,Security,Ubuntu,VMware,Network Administration,Windows,Apache,Software Development Life Cycle (SDLC),Management,Algorithms,Networking,

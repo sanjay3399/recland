@@ -1,0 +1,7 @@
+Name:Rakesh Videm
+Headline:Principal Software Engineer(Hadoop/Big Data) at Carefusion(BD)
+Location:San Diego, California
+Summary:Well experienced Big Data Engineer, working on BigData Ecosystem in ingestion, storage, querying, processingand analysis of big data.
+
+Experience:5 mos,1 yr 7 mos,1 yr,3 mos,1 yr 2 mos,
+Skills:Hadoop,Java,Core Java,Oozie,Sqoop,Hive,Apache Pig,ESP,Flume,NDM,FTPS,JIRA,Red Hat Linux,Eclipse,COBOL,JCL,CICS,IBM Mainframe,REXX,SQL,Shell Scripting,DB2,Git,GoldenGate,Agile Methodologies,Scrum,C,MySQL,JavaScript,Big Data,Requirements Analysis,SDLC,Unix,Software Development,Databases,

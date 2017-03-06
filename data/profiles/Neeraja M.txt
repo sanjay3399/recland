@@ -1,0 +1,7 @@
+Name:Neeraja M
+Headline:Informatica MDM Consultant
+Location:Houston, Texas
+Summary:Specialties:Informatica MDM 9.1 (Master Data Management) , Informatica Powercenter 9.x,Core Java,Oracle, SqlServer,PL/SQL,Unix, Linux,Shell Scripting,Data Modelling,CA Erwin,CA Autosys,Tidal Scheduler
+
+Experience:2 yrs 8 mos,1 yr 8 mos,2 yrs 4 mos,2 yrs,2 yrs 2 mos,
+Skills:Data W,ETL,Informatica,SQL,Unix,Unix Shell Scripting,Agile Methodologies,Software Development,Web Services,Java Enterprise Edition,XML,ETL Tools,Oracle,PL/SQL,Performance Tuning,Requirements Analysis,SDLC,Data Modeling,Oracle SQL Developer,Shell Scripting,Software Development Life Cycle (SDLC),

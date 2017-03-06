@@ -1,0 +1,5 @@
+Name:Janavi Singh
+Headline:Senior Hadoop Architect at Amegy Bank
+Location:Dallas/Fort Worth Area
+Experience:2 yrs 8 mos,11 mos,1 yr 5 mos,1 yr,1 yr 8 mos,
+Skills:Hadoop,Hive,Big Data,Java,Apache Pig,Sqoop,Vendor Management,Software Development,JavaScript,SDLC,Oozie,Shell Scripting,Flume,REST,MySQL,XML,Pig,Zookeeper,HDFS,Cassandra,Avro,Java Enterprise Edition,Pentaho,RDBMS,J2EE,Struts,JDBC,Hibernate,Spring,Web Services,Benchmark Clustering,Puppet Tools,Oozie Workflow Engine,JSP,

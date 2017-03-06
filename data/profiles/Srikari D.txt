@@ -1,0 +1,5 @@
+Name:Srikari D
+Headline:Consultant at Cloudwick
+Location:Fremont, California
+Experience:2 mos,1 yr 7 mos,1 yr 7 mos,8 mos,
+Skills:Databases,Oracle,Hadoop,C,VMware,Java,jQuery,HTML,PHP,Amazon Web Services (AWS),Linux,JavaScript,Hive,MySQL,Teaching,System Administration,Network Security,C++,Shell Scripting,HTML5,Oozie,Puppet,Sqoop,Kerberos,Photoshop,Maximo,Rational Robot,Rational Functional Tester,Weka,Operating Systems,Formal Languages,Flume,Apache Pig,MapReduce,Apache ZooKeeper,Dreamweaver,XAMPP,Web Design,Web Development,Eclipse,Microsoft Visual Studio C++,DB2,BIRT,

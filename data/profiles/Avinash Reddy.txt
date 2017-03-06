@@ -1,0 +1,8 @@
+Name:Avinash Reddy
+Headline:Hadoop Developer
+Location:Fayetteville, Arkansas Area
+Summary:• Excellent understanding / knowledge of Hadoop architecture and various components such as HDFS, JobTracker, Task Tracker, Name Node, Data Node, Resource Manager, Node Manager and MapReduce programming paradigm.• Hands on experience in installing, configuring, and using Hadoop ecosystem components like Hadoop MapReduce, HDFS, HBase, Oozie, Hive, Sqoop, Pig, Zookeeper, Flume, Cassandra, MongoDB, and Kafka.• Experience on Apache Hadoop technologies Hadoop distributed file system (HDFS),MapReduce framework, YARN, Pig, Hive, HCatalog, Sqoop, Flume and Kafka.• Extensive hold over Hive and Pig core functionality by writing custom UDFs.• Led many Data Analysis & Integration efforts involving Hadoop along with ETL.• Good Exposure on Apache Hadoop Map Reduce programming, PIG Scripting and Distribute Application and HDFS.• Good Knowledge on Hadoop Cluster administration, monitoring and managing Hadoop clusters using Cloudera Manager.• In-depth understanding of Data Structure and Algorithms.• Experience in managing and reviewing Hadoop log files.• Experience in NoSQL database Cassandra, MongoDB, HBase.• Experience in analyzing data using HiveQL, Pig Latin, and custom Map Reduce programs in Java.
+See more
+
+Experience:1 yr 6 mos,
+Skills:MapReduce,Apache Pig,Apache ZooKeeper,MongoDB,Apache Kafka,Hadoop,Hive,NoSQL,Cassandra,HBase,Java,JavaScript,MySQL,Linux,SQL,XML,Software Development,Agile Methodologies,C++,Oracle,Big Data,Databases,Java Enterprise Edition,Spring Framework,

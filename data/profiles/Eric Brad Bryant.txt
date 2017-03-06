@@ -1,0 +1,5 @@
+Name:Eric Brad Bryant
+Headline:Project Director
+Location:Milwaukee, Wisconsin
+Experience:7 yrs 9 mos,3 yrs 5 mos,3 yrs 9 mos,6 yrs 7 mos,
+Skills:SDLC,PL/SQL,Databases,Microsoft Office,HTML,Microsoft Excel,JavaScript,CSS,Java,Irwin,Visio,Linux Server,C++,Informatica,Toad,Cognos,JAD,Crystal Reports 10.0,ETL Tools,Oracle SQL Developer,Hadoop,SFDC,Mac OS,Django,Python,Ubuntu,RDBMS,Agile & Waterfall Methodologies,Organizational Reengineering,Technological Innovation,SAP BI,Photoshop,Process Control,PLC,Automation,Business Strategy,Change Management,Agile Methodologies,Scrum,Informatica Administration,Data Warehousing,Big Data,Hadoo,HDFS,Strategic Planning,Operating Budgets,Root Cause Analysis,XML,Modeling,Jenkins,

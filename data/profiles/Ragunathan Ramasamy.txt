@@ -1,0 +1,5 @@
+Name:Ragunathan Ramasamy
+Headline:Senior DevOps Engineer at Intuit
+Location:San Francisco Bay Area
+Experience:1 yr 2 mos,10 mos,4 mos,4 yrs 5 mos,9 mos,
+Skills:Amazon Web Services (AWS),Apache,Shell Scripting,Linux,Jenkins,MySQL,Puppet,DevOps,New Relic,Continuous Integration,Continuous Delivery,Git,OpenStack,DNS,Unix,VMware,Virtualization,Linux System Administration,Nginx,Nagios,Tomcat,Operating Systems,High Availability,JBoss Application Server,Unix Administration,Middleware,WebLogic,WebSphere Application Server,ITIL Certified,Sendmail,Red Hat Cluster Suite,Docker,Load Balancing,KVM,Vagrant,JIRA,Domain Name System (DNS),

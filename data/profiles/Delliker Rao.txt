@@ -1,0 +1,7 @@
+Name:Delliker Rao
+Headline:Devops Engineer at Blippar
+Location:San Francisco Bay Area
+Summary:My passion lies in improving flow, reducing bottlenecks, and reducing feedback cycles to quickly deliver value tocustomers while consistently developing high-quality, well-tested, maintainable software day-in, day-out.
+
+Experience:8 mos,2 yrs 6 mos,
+Skills:Linux,Amazon Web Services (AWS),DevOps,Cloud Computing,Servers,Git,Java,Python,Amazon EC2,Microsoft Office,SQL,Apache,Security,Information Technology,HTML,C,Management,C++,MySQL,Red Hat Linux,Testing,Configuration Management,Ubuntu,Windows Server,Jenkins,chef,puppet,Docker,Amazon S3,JavaScript,bamboo,Tortoise SVN,Apache mesos,Mesosphere,Marathon,Ansible,Jira,Tomcat,Github,Openstack,Apache Spark,MongoDB,Cassandra,Kubernetes,

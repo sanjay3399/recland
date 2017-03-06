@@ -1,0 +1,8 @@
+Name:Sravanthi K
+Headline:Bigdata-Hadoop/CRM Architect
+Location:Chicago, Illinois
+Summary:I have more than 8 years of strong experience in Architecture, Analysis, design, development, implementation,maintenance and support with experience in developing strategic methods for deploying big data technologies with Hadoop and also with the CRM systems.More than 4 years of extensive experience on BIG DATA using HADOOP technologies like HDFS, Map Reduce, YARN, HIVE, PIG, SQOOP, FLUME, OOZIE, Zoo Keeper, HBase, Kafka and SPARK.Expert in cluster planning and setting up the hadoop cluster and also building the data pipelines/ data lakes. Extensive experience working with Cloudera Distribution and Horton works Distribution and MapR in Hadoop.Strong at Java with strong understanding and working knowledge in Object Oriented Programming and also experience with Linux administration .Developed lot of tools named Object Inventory Tool in CRM systems and auto repository migration tools and auto srf replacement tools which helps to automate the regular day to day activities and also improved the efficiency of the resources by using my tools.
+See more
+
+Experience:3 yrs 5 mos,3 yrs 6 mos,2 yrs 7 mos,
+Skills:Oracle,SQL,Hadoop,Web Services,Java,XML,Hive,Unix,Sqoop,CRM,SOA,Bigdata,Pig,Hbase,Siebel,JavaScript,Hadoop Administration,Siebel Administration,Cloudera,Hortonworks,Mapreduce,Flume,Linux,Amazon EC2,

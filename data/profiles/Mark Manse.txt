@@ -1,0 +1,5 @@
+Name:Mark Manse
+Headline:Senior Recruiter/Account Manager at Software Guidance & Assistance
+Location:Tampa/St. Petersburg, Florida Area
+Experience:4 yrs 7 mos,1 yr 9 mos,
+Skills:Oracle,SQL,Java,C#,JavaScript,PL/SQL,WPF,SSIS,SSRS,Core Java,Cognos,J2EE Application Development,MVVM,WCF,Multithreading,Python,Slang,SSAS 2008,

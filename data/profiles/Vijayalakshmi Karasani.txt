@@ -1,0 +1,5 @@
+Name:Vijayalakshmi Karasani
+Headline:Lead Data Engineer at Target Corporation
+Location:Sunnyvale, California
+Experience:2 yrs 2 mos,7 mos,1 yr 5 mos,1 yr 9 mos,2 yrs,
+Skills:Hadoop,Java,Hive,MapReduce,Unix,Hibernate,Apache Pig,Microsoft SQL Server,C++,Struts,Agile Methodologies,MySQL,JavaScript,HTML,Oozie,Shell Scripting,Algorithms,Eclipse,R,J2EE Application Development,Programming,Hibernate 3.1,Microstrategy,HTML 5,Talend,Distributed Systems,Dreamweaver,

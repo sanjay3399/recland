@@ -1,0 +1,5 @@
+Name:Harmeet Singh Chhabra
+Headline:Test Manager at Accenture
+Location:West Orange, New Jersey
+Experience:7 yrs 3 mos,4 yrs 1 mo,2 yrs 5 mos,2 yrs 1 mo,2 yrs 2 mos,
+Skills:ALM,Process Improvement,QTP,Global Delivery,Project Planning,Test Strategy,Regression Testing,Software Project Management,Distributed Team Management,MSPS,Test Management,Test Planning,Management,Testing,Quality Assurance,User Acceptance Testing,Requirements Analysis,SDLC,SQL,Resource Management,Team Management,Manual Testing,Defect Tracking,Analysis,Test Cases,Defect Management,Software Development,Project Management,Change Management,Production Support,Outsourcing,Project Delivery,Defect Life Cycle,Defect Logging,Defect Identification,Hexawise,VSTS,HP Quality Center,Quality Center,

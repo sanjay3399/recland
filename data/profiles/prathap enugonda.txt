@@ -1,0 +1,8 @@
+Name:prathap enugonda
+Headline:Lead Data Engineer at GE Digital
+Location:San Francisco Bay Area
+Summary:Specialties: SCJP 1.5 Certified professional Around 10 years of experience in Software Development Life Cycleprocess which includes analysis, design, development and maintenance of Hadoop framework and Java/ J2EE based applications.  Extensive Experience in Design and Building Complex Business components, Developing Multi-Tier Web Applications and Server Side Business Logic using J2EE, Java JDK 1.4/1.5/1.6 Enterprise Java Beans (EJB), Servlets, JSP and Tag Library, Struts, Spring, Hibernate, RESTful WebServices, Ant/Maven, Weblogic ,Websphere and Apache Tomcat servers. Extensive Experience in designing and developing Data pipe line jobs and transformations using Hive scripts and Hive UDFs. Lead complete ownership of design and ingestion of data in Greenplum Database (MPP)  Experience in development using Map Reduce, Sqoop , HDFS , YARN and Shell scripting. Knowledge in Scala, Spark Core, SparkSQL and Spark Streaming . Experience of developing Data Ingestion jobs using Talend tool and sqoop. Expertise in working with RDBMS databases like Oracle, mysql, postgreSQL, DB2 .
+See more
+
+Experience:1 yr 11 mos,1 yr 4 mos,2 yrs 4 mos,3 yrs 3 mos,1 yr 11 mos,
+Skills:Agile Methodologies,Hadoop,Hive,MapReduce,Sqoop,Greenplum,JSP,Struts,Servlets,Core Java,Hibernate,Sun Certified Java Programmer,JUnit,Java,Web Services,Design Patterns,Spring Framework,JDBC,J2EE Application Development,SQL,Apache Spark,Scala,Python,Apache Kafka,Eclipse,Java Enterprise Edition,

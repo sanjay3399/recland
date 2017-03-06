@@ -1,0 +1,8 @@
+Name:Abdul Md
+Headline:Hadoop Admin at Cisco.
+Location:Fremont, California
+Summary:• Over 6+ years of experience in IT field including 3 years of experience in Hadoop Administration in diverseindustries which includes hands on experience in Big data ecosystem related technologies. • Excellent understanding of Hadoop architecture and underlying framework including storage management.• Have good experience with design, management, configuration and troubleshooting of distributed production environments based on NoSQL technologies like MongoDB, Apache Hadoop/ HBase, Couchbase etc. • Well Experienced in defining, designing, integrating and reengineering the Enterprise Data warehouse and Data Marts in different Environments like Teradata and various levels of complexity. • Extensive database experience and highly skilled in SQL in Oracle, MS SQL Server, Teradata, Sybase, Mainframe Files, Flat Files, MS Access. • Experience working in object oriented programming (OOP) concepts using Python, C++ and PHP. Hands on experience in developing Web Services with Python programming language. • Rich SAS experience with exposure to Base SAS, Macros, SAS CONNECT, SAS ACCESS, SAS ODS, SAS 9 BI Suite (SAS ETL, SAS Management Console, SAS Enterprise Guide, SAS Stored Procedures, SAS Add-in for Microsoft Office).
+See more
+
+Experience:2 yrs 7 mos,7 mos,
+Skills:Java,Big Data,MapReduce,Hadoop,Apache Pig,Hive,Management,Project Management,Apache Spark,Apache Storm,Big Data Analytics,

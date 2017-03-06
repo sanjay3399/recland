@@ -1,0 +1,7 @@
+Name:Sarath Chandra Bollineni
+Headline:Hadoop Developer at Ameriinfo Inc
+Location:Cupertino, California
+Summary:• Seven years of experience in Financial Analytics, Corporate Actions, Software Development and Implementation.• Two years of experience in Big Data / Hadoop which includes HDFS, Map Reduce, Pig, Hive, HBase, ZooKeeper, Flume, Sqoop, Oozie, Java and Python. Good in SAS and SAS/SQL, Oracle RDBMS, Oracle 11i• Four experience in Financial Events like Profit & Loss Accounting (Revenue, Gross Income, Operating Income, Net income, EPS, Shares Outstanding), Cash flow statements and Balance sheet of the corporate companies listed in NYSE and NASDAQ. Led and managed projects worth of over 6 Million.• Very good in SDLC and implementation methodology like gathering business requirements, publishing gaps, AS IS & TO BE, documents. • Good team player, quick learner, self-motivator and ability to work in challenging environments with good communication.
+
+Experience:2 yrs 2 mos,1 yr,2 yrs 6 mos,1 yr 11 mos,1 yr 3 mos,
+Skills:Hadoop,SQL,Java,Hive,SAS,Big Data,Apache Pig,HBase,Microsoft Office,Oracle Applications,PL/SQL,MapReduce,C,Unix,MS Office tools,Oracle E-Business Suite,Financial Analysis,Cassandra,R,

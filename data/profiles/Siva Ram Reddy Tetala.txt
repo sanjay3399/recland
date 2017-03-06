@@ -1,0 +1,8 @@
+Name:Siva Ram Reddy Tetala
+Headline:Big Data Software Engineer at The Advisory Board Company | Graduate student in Computer Science
+Location:Washington, District Of Columbia
+Summary:I am the one who chooses to be regular worker than hard worker, continuous learning and exploring newtechnologies. Certifications:* Oracle Certified Professional, Java SE 8 Programmer* Cloudera Certified Professional Data Engineer * Cloudera Certified Developer for Apache Hadoop* Databricks Certified Developer for Apache SparkFocused on using Big Data Technologies(Hadoop stack, Spark) to analyze and solve problems with big data size(TB's/PB's).Technical Skills:*Big Data: Hadoop (Map-Reduce, HDFS), Hive, Pig, Sqoop, Spark, Flume, Oozie, Kafka. Input format(CSV, Avro, Parquet), NoSQL (Cassandra, HBase)* Virtualization Tools: Vagrant, Docker*Relational Databases: MySQL, Oracle 9i*Cloud: Amazon Web Services (EC2, S3, EMR, RedShift)*Operating System: Linux(RHEL,Centos), UNIX, Windows*Languages: Java, Scala, Python.*Tools: Eclipse, IntellijIDEA, vSphere, Putty, WINSCP, Tableau
+See more
+
+Experience:4 mos,1 yr 2 mos,5 mos,4 mos,10 mos,
+Skills:Java,C,SQL,C++,Microsoft Office,PHP,CSS,JavaScript,Oracle,PL/SQL,Big Data,Hadoop,Linux,Core Java,MySQL,Unix,HTML,Web Applications,C#,JSP,Java Enterprise Edition,Apache Pig,Sqoop,Apache Spark,Yarn,MapReduce,Software Development,Agile Methodologies,Amazon Web Services (AWS),Apache Storm,Apache Kafka,Eclipse,Cascading Style Sheets (CSS),Hive,Distributed Systems,Programming,Data Structures,Database Design,Solr,Scrum,Microsoft Excel,

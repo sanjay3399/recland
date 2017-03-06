@@ -1,0 +1,7 @@
+Name:Abhi Yerra
+Headline:Founder / DevOps Strategist at opsZero
+Location:San Francisco Bay Area
+Summary:Working on technologies to make DevOps and Platform Engineering less dreadful.Working on technologies to make DevOps and Platform Engineering less dreadful.
+
+Experience:1 yr,11 mos,3 yrs 3 mos,
+Skills:Ruby on Rails,Git,Ruby,MongoDB,MySQL,Redis,Hadoop,JavaScript,Python,Open Source,Cassandra,Erlang,Distributed Systems,Linux System Administration,REST,Scalability,Java,Mobile Applications,Django,Software Development,Backend Development,Amazon Web Services (AWS),LAMP,Go,Docker,Emacs Lisp,PostgreSQL,Android Development,

@@ -1,0 +1,5 @@
+Name:Himanshu Lal
+Headline:Associate Vice President at CodeForce 360
+Location:Alpharetta, Georgia
+Experience:1 yr 3 mos,1 yr 10 mos,1 yr 6 mos,10 mos,1 yr 9 mos,
+Skills:ASP.NET MVC,ASP.NET AJAX,ASP.NET,C#,HTML5,CSS,Bootstrap,Node.js,KnockoutJS,AngularJS,Responsive Web Design,JavaScript,jQuery,Silverlight,ADO.NET,LINQ,Entity Framework,WCF,Windows Azure,WPF,Microsoft SQL Server,SSRS,Web Development,Research,Management,Leadership,Training,Photoshop,Sales,Technical Sales Presentations,Business Development,Business Intelligence,Requirements Analysis,Business Analysis,Scrum,Agile Methodologies,MVVM,MVC,Product Development,Software Development,Team Management,Technical Recruiting,Cascading Style Sheets (CSS),Windows Presentation Foundation (WPF),SQL Server Reporting Services (SSRS),

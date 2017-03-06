@@ -1,0 +1,8 @@
+Name:Jishnu Kurunthala
+Headline:Hadoop Technology Lead at Infosys
+Location:San Francisco Bay Area
+Summary:Big Data professional with 5 years of experience in Hadoop development. Expertise in Azure and AWS cloud services.Expertise in Core java, Scala, Shell scripting and Big Data technologies like MapReduce, Spark, Hive, Hbase, Kafka, Pig, Storm, Elasticsearch, Solr etc. Cloudera, IBM Biginsights ,MapR certification.
+See more
+
+Experience:8 mos,6 mos,9 mos,2 yrs 5 mos,1 yr 1 mo,
+Skills:Hadoop,Hive,Java,Core Java,MapReduce,Big Data,Sqoop,Shell Scripting,SQL,HBase,MySQL,Unix,Linux,Solr,XML,Teradata,Apache Kafka,kafka,Greenplum,Tesseract,OpenCV,DB2,Spark,ElasticSearch,Amazon Web Services (AWS),Microsoft Azure,Scala,Apache Storm,Oozie,elk,Logstash,Kibana,EMR,Amazon Redshift,Amazon S3,conductr,hdinsight,Python,

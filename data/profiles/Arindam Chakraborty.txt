@@ -1,0 +1,5 @@
+Name:Arindam Chakraborty
+Headline:Hadoop Platform Engineer at Visa
+Location:Austin, Texas Area
+Experience:1 yr 11 mos,2 yrs 4 mos,5 yrs 7 mos,2 mos,1 yr 5 mos,
+Skills:Hadoop,Hive,Sqoop,Apache Pig,Cloudera Manager,Impala,Oozie,Capacity Scheduler,Fair Scheduler,Core Java,Nagios,Ganglia,Kerberos,Unix Shell Scripting,PL/SQL,ETL,Business Intelligence,Requirements Analysis,Data Warehousing,Oracle E-Business Suite,Shell Scripting,Big Data,Enterprise Software,Apache,Distributed Systems,MySQL,Management,

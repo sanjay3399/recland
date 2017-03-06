@@ -1,0 +1,8 @@
+Name:Nakul Maddipati
+Headline:Data Platform Developer-Spark at Microsoft
+Location:Redmond, Washington
+Summary:Successfully transforming large, unruly data sets into competitive advantages. Proven expertise in providingsolutions for Big Data leveraging the Big Data and distributed computing technologies technologies Hadoop, HDFS, Spark, etc. Hands on experience with AWS for Big Data.
+See more
+
+Experience:11 mos,
+Skills:Java,Hadoop,HTML,Apache Pig,Amazon Web Services (AWS),MapReduce,Apache Kafka,J2EE Web Services,Apache Spark,Hive,Tableau,ETL,SQL,NoSQL,Amazon Dynamodb,Big Data,Apache Storm,HDFS,Sqoop,Oozie,Amazon S3,Yarn,JSON,Amazon CloudFront,Shell Scripting,Linux System Administration,HBase,Cassandra,Python,Scala,Kerberos,Spring Framework,REST,Amazon VPC,Amazon Elastic MapReduce (EMR),Amazon EC2,Windows Azure,MySQL,Apache Flume,Splunk,ORM,Hibernate,SOAP,Amazon Redshift,Service Bus Queues,Event Hubs,Amazon EBS,C++,

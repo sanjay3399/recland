@@ -1,0 +1,8 @@
+Name:Prakash Appani
+Headline:Director, Software Quality Engineering at GE
+Location:San Francisco Bay Area
+Summary:• Over 17 years of diverse experience in Product quality, Product development, build & release engineering andover 7 years of experience in managing QA teams.• Created, expanded and maintained high power teams with the focus on growth, delivery and accountability.• Established processes, procedure and metrics to improve the organizational efficiency.• Strong analytical, problem solving, communication and interpersonal skills.• Experience in leading projects using both Agile & Waterfall development model.• Experience in configuring & testing the products using Hadoop technologies.• Expertise in white box testing using TestNG/JUnit and expertise in automating web based applications using Silk/QTP/Selenium.• Proficient in architecting & developing Java based Installers using InstallAnywhere.
+See more
+
+Experience:2 yrs,8 mos,1 yr 9 mos,2 yrs 8 mos,2 yrs 7 mos,
+Skills:Agile Methodologies,Hadoop,Java,Software Quality Assurance,Test Automation,Quality Assurance,JUnit,TestNG,SQL,Ant,Shell Scripting,Informatica,Maven,SilkTest,Performance Testing,Test Management,Selenium,TestLink,System Testing,Hive,InstallAnywhere,HP QTP,QTP,CruiseControl,Maven2,Clover,HDFS,Localization,Internalization,

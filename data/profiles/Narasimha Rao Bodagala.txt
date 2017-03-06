@@ -1,0 +1,7 @@
+Name:Narasimha Rao Bodagala
+Headline:Technical Lead at Macy's
+Location:San Francisco Bay Area
+Summary:Hadoop certified developer Java certified programmerHivepig and sqoop having good exposerStromKafkaSolrFlume
+
+Experience:1 yr 11 mos,3 yrs 9 mos,1 yr 10 mos,4 mos,2 yrs 9 mos,
+Skills:Hadoop,Hive,Java,Oracle,Requirements Analysis,Sqoop,SQL,Apache Pig,XML,SDLC,JavaScript,Java Enterprise Edition,Microsoft SQL Server,Spring Framework,PL/SQL,Unix,Agile Methodologies,Flume,Apache Kafka,Solr,HBase,intershop,Apache Storm,Cassandra,Continuous Delivery,Continuous Integration,Log4j,

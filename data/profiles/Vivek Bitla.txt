@@ -1,0 +1,5 @@
+Name:Vivek Bitla
+Headline:Senior Architect | Director | Advisor → Big Data ◆ Cloud ◆ Deep Learning ◆ Machine Learning ◆ IoT ◆ BI ◆ Search
+Location:San Francisco Bay Area
+Experience:1 yr 2 mos,1 yr 9 mos,
+Skills:Hadoop,Java,Apache Spark,Amazon Web Services (AWS),Machine Learning,Solution Architecture,Strategy,Leadership,Cassandra,Hive,Apache Pig,MapReduce,SQL,Big Data,Python,Sqoop,Unix,Amazon EC2,Linux,Cloud Computing,SDLC,Databases,Oracle,Shell Scripting,Performance Tuning,Software Development Life Cycle (SDLC),ETL,JSON,Agile Methodologies,Scalability,Open Source,MongoDB,PostgreSQL,HBase,AngularJS,Scala,Apache Kafka,Extract, Transform, Load (ETL),Unix Shell Scripting,Amazon S3,Scrum,Perl,Oozie,Splunk,EMR,kafka,Distributed Systems,Solr,Presto,Flink,
