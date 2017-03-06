@@ -1,0 +1,8 @@
+Name:Niketh Juluri
+Headline:Hadoop Admin at Cloudwick
+Location:Fremont, California
+Summary:Experienced Hadoop Administrator with a demonstrated history of working in the information technology andservices industry.Strong administrative professional with a Master's degree focused in Computer Science from Northwestern Polytechnic University.
+See more
+
+Experience:1 yr 5 mos,6 mos,
+Skills:SQL,Java,Core Java,Hive,MongoDB,Linux,Distributed Systems,Hadoop,C,Shell Scripting,Unix,C++,Web Services,Photoshop,CCNA,Pig,Apache Pig,JavaScript,MySQL,Software Development Life Cycle (SDLC),

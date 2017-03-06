@@ -1,0 +1,5 @@
+Name:Saran Reddy
+Headline:Big Data Architect at Equinix
+Location:San Francisco Bay Area
+Experience:1 yr,6 mos,6 mos,
+Skills:Hadoop,Hive,MapReduce,Apache Pig,MySQL,Java,Linux,Big Data,Databases,Data Warehousing,Cloud Computing,Nagios,High Availability,Shell Scripting,HBase,Distributed Systems,Cluster,Performance Tuning,Cassandra,Oozie,Core Java,Puppet,DNS,Sqoop,Pentaho,Ganglia,Benchmarking,Flume,Data Analysis,QlikView,Tableau,RabbitMQ,OpenStack,NoSQL,Amazon Web Services (AWS),CentOS,Amazon EC2,Amazon S3,Scalability,

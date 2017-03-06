@@ -1,0 +1,5 @@
+Name:Ajay Guyyala
+Headline:Sr. Big Data Hadoop Platform Engineer/Architect at Groupon
+Location:San Francisco Bay Area
+Experience:2 yrs 3 mos,11 mos,1 yr 5 mos,4 mos,1 yr,
+Skills:Apache Spark,Cassandra,Python,Scala,HBase,Hadoop,Presto,Redis,SQL,Data Mining,Unix,SAS,PL/SQL,SAS programming,Data Analysis,C,Predictive Modeling,Software Project Management,CPP,SAS Certified Base Programmer,Oracle SQL,C++,Statistical Modeling,Oracle,Statistics,Tableau,Java,SAS E-Miner,IBM SPSS Modeler,JMP,Text Mining,Microstrategy,Apache Pig,Hive,MapReduce,Sqoop,Spark,ZooKeeper,Flume,Yarn,Databases,Shell Scripting,Microsoft SQL Server,Analytics,MySQL,Apache phoenix,Oozie,Data Modeling,Data Warehouse Architecture,

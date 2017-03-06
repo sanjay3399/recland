@@ -1,0 +1,8 @@
+Name:Jaswinder Singh Paul
+Headline:Senior Data Engineer at GE Digital
+Location:San Francisco Bay Area
+Summary:- 10+ Years of working with Big Data, Data Warehouse and Business Intelligence experience along with buildingData Pipelines, Architecture, Designing, Leading and Development of ETL/Data Warehouse, Data Marts. ODS, Data Integration and Data Ingestion.- Experience with Big Data/Cloudera/Pivotal Hadoop - HDFS, MapReduce, Pig, Hive, HBase and Sqoop.- Experience working with Amazon Redshift and Data Modeling.- Excellent experience in Analytics and Reporting including Dashboard creations and Scorecards. - Worked with Python scripts with Hadoop and Hive- Tools and Technologies: ETL Tool - Informatica Power Center 9.1, Talend Big Data Platform 4.1/5.4/5.5/5.6, MS SSIS. BI Tool - SSAS/SSRS and Tableau 8.0/8.2/8.3. Big Data - Cloudera/Pivotal Hadoop, HDFS, Hive Mapreduce, Pig, HBase, Hawk and Sqoop RDBMS - Postgres, PostGIS, Oracle, Netezza, Greenplum, SQL Server - ANSI SQLProgramming - Python scripts, Bash scripts and Java Other Technologies - Erwin 5.0, FSShell, Unix/Linux, Autosys scheduler, Toad, Aginity Workbench,SQL Developer, HPQC, JVM.Also, worked with Geo-spatial data and functions.
+See more
+
+Experience:7 yrs 8 mos,
+Skills:Informatica,ETL,Business Intelligence,Data Warehousing,SSIS/SSAS/SSRS,Talend Big Data Enterprise Studio,Hadoop,Big Data,Netezza,Tableau,Data Integration,Unix Shell Scripting,PL/SQL,Python,SQL,Oracle,Teradata,Data Analysis,Databases,MicroStrategy,Shell Scripting,Talend,Apache Pig,Hive,Sqoop,HBase,HDFS,Apache Spark,Apache Kafka,Cassandra,Extract, Transform, Load (ETL),

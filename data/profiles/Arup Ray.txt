@@ -1,0 +1,8 @@
+Name:Arup Ray
+Headline:Leadership Program at GE Digital
+Location:San Francisco Bay Area
+Summary:Data Engineering professional with deep knowledge and intellectual curiosity about new technologies. Hands-onleader with ability to design and build systems. Have built global engineering teams. Have had the privilege of working with great engineers across the world and on some of the most challenging data problems. Enjoy solving business problems using deep data skills.Specialties: Big Data solutions, Hadoop, Hive, Cassandra, SparkData Lake, Business Intelligence Solutions Master Data Management
+See more
+
+Experience:2 yrs 3 mos,4 mos,10 mos,1 yr 11 mos,4 yrs 5 mos,
+Skills:Big Data,Hadoop,Data Architecture,Data Warehousing,Business Intelligence,Cloud Computing,Master Data Management,Database Design,Netezza,Agile Methodologies,Web Analytics,Cassandra,Hive,Enterprise Architecture,Distributed Systems,Software Development,Data Integration,Data Mining,Scalability,

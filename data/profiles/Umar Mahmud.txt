@@ -1,0 +1,5 @@
+Name:Umar Mahmud
+Headline:Lloyd Prime Technology Lead
+Location:New York, New York
+Experience:1 mo,10 mos,8 mos,1 yr 3 mos,8 mos,
+Skills:Business Intelligence,Recruiting,Consulting,Management,Contract Recruitment,ETL,Microsoft Dynamics,Big Data,Hadoop,Business Development,Analytics,Business Objects,Business Analysis,Executive Search,Talent Acquisition,Account Management,QlikView,Apache Pig,Hive,Business Intelligence Tools,SAP BI,OBIEE,Tableau,ETL Tools,SAS,Talend,MicroStrategy,Microsoft BI Suite,OLAP,Hyperion,Python,MapReduce,NoSQL,R,Apache,Cassandra,SQL,Requirements Analysis,Databases,Amazon Redshift,Salesforce.com,

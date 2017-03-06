@@ -1,0 +1,8 @@
+Name:Sagar Disawal
+Headline:Data Engineer
+Location:New York, New York
+Summary:●Big Data enthusiast and Hadoop Developer. Data Engineer at NVENT Inc, MS in Information Systems fromUniversity of Texas at Arlington, coursework involving System design and analysis, Advanced Algorithm, Data Science...● Experience working with open source project's as a Data Engineer.●Over an year of experience as junior software developer at Valtech US where I worked on Frameworks like Spring,Hibernate as well as testing using Junit, Jmeter.●Familiar with Agile methodologies-Scrum, has functioned on a Scrum team. # Hadoop set: ETL using MapReduce, Spark, HBase, Kafka, Pig, Hive, Sqoop, Avro.Other: Oozie, Solr. #Technologies: Java, SQL and Scala.#I have worked as Hadoop Developer as well as DevOps.
+See more
+
+Experience:1 yr 5 mos,1 yr 5 mos,
+Skills:Java,SQL,Apache Spark,Scala,Hadoop,MapReduce,HBase,Hive,Apache Pig,Linux,Apache ZooKeeper,Oozie,Flume,Sqoop,Cassandra,Talend,Amazon Web Services (AWS),Avro,Distributed Systems,Agile Methodologies,JUnit,Apache Storm,Machine Learning,JavaScript,Spring Framework,JMeter,Tomcat 5,CSS,HTML 5,Databases,C,HTML,Eclipse,spring,Maven,Scrum,Python,Data Analysis,Data Warehousing,Data Mining,PL/SQL,C++,PHP,Bootstrap,Hibernate,MySQL,Algorithms,XML,Unix,Software Development,

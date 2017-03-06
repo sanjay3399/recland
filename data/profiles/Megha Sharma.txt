@@ -1,0 +1,8 @@
+Name:Megha Sharma
+Headline:Software Engineer at Apple
+Location:San Francisco Bay Area
+Summary:Master’s degree in Computer Science from University of Missouri – Kansas City with a 4.0 GPA and projects in Java,.Net, Big Data, Machine Learning, Cloud computing and Clinical data. Outstanding Graduate Student for the year 2013 -2014 and Grace Hopper and Dean’s International scholarship awardee.
+See more
+
+Experience:2 yrs 2 mos,5 mos,1 yr 1 mo,4 yrs 6 mos,
+Skills:Machine Learning,R,Big Data,Hadoop,Mahout,HBase,Apache Pig,Hive,MongoDB,Java,DB2,Microsoft SQL Server,Eclipse,IntelliJ IDEA,XML,Agile Methodologies,MapReduce,RESTful WebServices,SOAP,Scrum,HL7,SPARQL,SQL,Matlab,Apache mesos,Apache aurora,

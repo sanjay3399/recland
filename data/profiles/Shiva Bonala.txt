@@ -1,0 +1,5 @@
+Name:Shiva Bonala
+Headline:VP, Risk Technology Development Manager - Big Data (Hadoop)
+Location:Charlotte, North Carolina Area
+Experience:2 yrs 6 mos,7 mos,6 yrs 4 mos,2 yrs,
+Skills:Big Data,Hadoop,Oracle,Solution Architecture,Data Warehousing,SQL,ETL,Hive,Sqoop,Hbase,Apache Pig,PL/SQL,Oracle Applications,Oracle E-Business Suite,Unix Shell Scripting,Informatica,Oracle HR,OBIEE,Core Java,Shell Scripting,Weblogic,SOA,Oozie,Enterprise Software,Oracle Order Management,Oracle Inventory,Enterprise Architecture,Oracle PL/SQL Development,XML,CRM,Data Migration,Data Modeling,JavaScript,Cassandra,Oracle Shipping,Mahout,Flume,Avro,Agile Methodologies,

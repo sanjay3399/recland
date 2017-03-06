@@ -1,0 +1,8 @@
+Name:Senda Gopalakrishnan
+Headline:at GE Healthcare
+Location:San Francisco Bay Area
+Summary:• Big Data Analytics Architect with 18+ years of experience in data architecture, design, analysis, development,implementation and management of Analytics and BI applications in telecom, hi-tech, consumer products, and healthcare verticals.• Data leader with experience leading Analytics teams, BI teams and Data Scientists delivering enterprise wide Analytics and BI practice. • Extensive data architecture & Analytics Product development experience coupled with proficiency in a wide range of Big data technologies such as Hadoop, Mongo dB, Hbase, Business Objects, Cognos, Cassandra, Tableau, Oracle and SQL Server.• CBIP Certified in Data Management & MBA – Information Systems & Finance.Specialties: • Big data • Analytics • Product Development • KPI & Performance Metrics • Data Platform Development • Data Warehouse • Business Intelligence
+See more
+
+Experience:3 yrs 8 mos,2 yrs 7 mos,2 yrs 9 mos,4 yrs 6 mos,5 mos,
+Skills:Hadoop,HDFS,Apache Spark,Hive,Amazon Web Services (AWS),Greenplum,Mongodb,Cassandra,Leadership,Management,Nosql,Python,Data Architecture,SQL,Data Warehousing,Business Intelligence,Data Warehouse Architecture,Enterprise Software,Agile Methodologies,Data Modeling,Big Data,Software Development,Analytics,ETL,Integration,Dimensional Modeling,SDLC,Data Integration,Tableau,Big Data Analytics,Informatica,Database Management,Data services,Talend,Data Mining,Requirements Analysis,Software Project Management,Oracle,Microsoft SQL Server,

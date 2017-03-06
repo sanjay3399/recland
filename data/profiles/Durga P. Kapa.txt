@@ -1,0 +1,8 @@
+Name:Durga P. Kapa
+Headline:Data Science Engineer at Ravel Law
+Location:San Francisco Bay Area
+Summary:- Over 6 years of experience in design, development and delivery of distributed enterprise applications using Java,J2EE. - 2+ years of experience in working with Spark, Scala, Hadoop, AWS- Proficient at prototyping features/business requirements to expand application capabilities using Java, Spring, JSF, Hibernate, Oracle and RESTful Services in time-sensitive environments.- Experience in writing MapReduce programs and creating Hadoop job flows in Amazon Elastic MapReduce (EC2, S3) to run custom jars.- Possess knowledge of other Big Data Ecosystems – Pig, Zookeeper, Crunch, Spark, Storm; Amazon EC2 and S3; Passionate about developments in Big Data.- Hands-on experience in Performance Optimization and Application Security.- Familiar with data architecture including data ingestion pipeline design, Hadoop information architecture, data modeling, data mining and machine learning.- Highly motivated self-starter with the ability to adapt in challenging work environments.Specialities:Java, Spark, Scala, AWS, Hadoop, MapReduce, PL/SQL, RESTfulCloudera and Hortonworks Certified Hadoop Developer
+See more
+
+Experience:1 yr 7 mos,2 yrs 11 mos,1 yr 5 mos,3 mos,2 yrs 2 mos,
+Skills:Java Enterprise Edition,SQL,Apache Spark,Scala,Hadoop,Amazon Web Services (AWS),Big Data,Data Mining,Machine Learning,Natural Language Processing,PL/SQL,MapReduce,Core Java,Apache Pig,MongoDB,Hibernate,JavaScript,JUnit,MySQL,XML,Linux,JBoss Application Server,Microsoft SQL Server,Tomcat,Hive,Design Patterns,JMS,SOAP,Agile Methodologies,Weblogic,Spam Filtering,Compiler Construction,Spring,HTML,Retail,Jasper Reports,Supply Chain,Spring Framework,

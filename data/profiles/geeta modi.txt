@@ -1,0 +1,5 @@
+Name:geeta modi
+Headline:If I viewed your profile, I probably have an exciting job opportunity for you! Please reach out!
+Location:Pittsburgh, Pennsylvania
+Experience:2 yrs 2 mos,
+Skills:Business Intelligence,Cloud Computing,Requirements Analysis,Vendor Management,SDLC,Business Analysis,Databases,Oracle,SaaS,Agile Methodologies,Data Warehousing,Software Development Life Cycle (SDLC),Software as a Service (SaaS),Management,HTML,Talent Acquisition,SQL,Recruiting,Java,Big Data,Software Project Management,XML,Technical Recruiting,JavaScript,

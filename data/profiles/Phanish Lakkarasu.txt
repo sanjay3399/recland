@@ -1,0 +1,5 @@
+Name:Phanish Lakkarasu
+Headline:Hadoop Consultant at AutoDesk
+Location:San Francisco Bay Area
+Experience:1 yr 1 mo,2 yrs 1 mo,1 yr,
+Skills:Hadoop,Big Data,Shell Scripting,Hive,MapReduce,Java,Linux,Python,Apache Pig,MySQL,SDLC,Distributed Systems,SQL,Oracle,Consulting,HBase,Agile Methodologies,C++,C,Unix,Amazon Web Services (AWS),Software Development Life Cycle (SDLC),ETL,Puppet,Cassandra,Perl,Apache Kafka,Apache Spark,Apache ZooKeeper,MongoDB,Amazon EC2,

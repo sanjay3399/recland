@@ -1,0 +1,5 @@
+Name:Abizer (F) Adenwala
+Headline:Technical Support Manager at MapR . We are hiring !
+Location:San Jose, California
+Experience:2 yrs 11 mos,3 yrs,
+Skills:Linux,Red Hat Linux,Operating Systems,Unix,Storage,Servers,SAN,Hadoop,Shell Scripting,Cisco Technologies,Troubleshooting,Cluster,Databases,Cloud Computing,Technical Support,NAS,System Administration,Hardware,Security,Testing,Storage Area Networks,MapR,Linux System Administration,HP-UX,Virtualization,Big Data,Apache Spark,

@@ -1,0 +1,5 @@
+Name:Vin Vashishta
+Headline:Machine Learning At V-Squared
+Location:Reno, Nevada Area
+Experience:4 yrs 11 mos,2 yrs 2 mos,5 yrs 1 mo,1 yr 3 mos,3 yrs 7 mos,
+Skills:Product Management,Leadership,Business Intelligence,Strategy,Software Development,Analytics,Data Modeling,Customer Analysis,E-commerce,Competitive Intelligence,Product Strategies,CRM,Agile Methodologies,Social Media,Business Strategy,Management,Start-ups,Marketing,Strategic Planning,Team Building,Business Development,SQL,Data Science,Machine Learning,Natural Language Processing,Predictive Analytics,Software Engineering,Data Mining,

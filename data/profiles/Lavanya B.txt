@@ -1,0 +1,8 @@
+Name:Lavanya B
+Headline:Hadoop Administrator at Cigna
+Location:San Francisco Bay Area
+Summary:- Build, Manage and Support of the Big Data clusters based on Hadoop and other NoSQL technologies.- AdministerHadoop Clusters, NoSQL databases, Troubleshoot ETL/ELT tools.- Designing and developing service & solutions using open source Big Data technologies.- Data Ingestion and Consumption design and development for Big Data and Analytics- Designing and developing complex data and application integration.- Data modeling, analytic schema/databases design, performance tuning.- Data discovery, Data visualization, and In-Memory tools and technologies.- EDW, Business Intelligence, Analytics, ETL/ELT and Data Integration.Specialties: -----------------• Big Data : Hadoop, MapReduce, Sqoop, Hive, HDFS, Impala, Spark, Hbase, Hue, Kerberos, Yarn, Sentry.• Functional : HealthCare, Finance, Retail• Databases : Oracle, MySQL, MS SQL Server, Teradata, Postgres.• BI /Visual Analytics : Tableau, SSRS • Integration : ERP (Oracle)• Languages : Python, Java, shell / bash scripting• ETL/ELT : Talend Big Data, Datastage, SSIS• Monitoring : Cloudera Manager, Ganglia, Nagios, Check_mk• Hadoop Distributions : Cloudera, Hortonworks• Other technologies : Microsoft Sharepoint, chef, puppet, Ansible, Kyvos
+See more
+
+Experience:1 yr 3 mos,5 mos,
+Skills:Big Data,Hadoop,Hive,Apache Pig,Sqoop,SQL,DataStage,Data Modeling,Performance Tuning,Oracle,ETL,Business Intelligence,SDLC,Microsoft SQL Server,SSRS,Linux,Hgh Availability,Apache Spark,Kerberos,CentOS,Red Hat Linux,Apache Storm,Apache Ranger,Apache Solr,Puppet,Chef,VMware ESX,Cloudera,

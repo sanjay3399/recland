@@ -1,0 +1,5 @@
+Name:Andy Yan
+Headline:Software Developer Engineer at Gap Inc.
+Location:San Francisco Bay Area
+Experience:1 yr,
+Skills:Java,JavaScript,SQL,HTML,Databases,Spring Framework,Maven,Hibernate,Linux,XML,MongoDB,CSS,Gradle,NoSQL,Software Development,Core Java,Testing,Unix,Gurobi,sprintboot,

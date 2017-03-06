@@ -1,0 +1,8 @@
+Name:Anurag Tangri
+Headline:Hadoop Solutions Lead Engineer
+Location:San Francisco Bay Area
+Summary:Working as Hadoop Solutions Architect the current project with main focus on:- Spark, CDH 5.5.1.1, YARN, Solr.- Lowlatency in-memory solutions with Apache Spark.- implementing Spark 1.5 on production Hadoop clusters with YARN Integration.- Introduce Apache Spark 1.5 to our users and provide demos/trainings and help with POCs.- Help Hadoop users with any issue they face in their Hadoop related projects.- Perform Cloudera upgrades for various new tools like YARN/Spark/Sentry/Solr on the clusters.- Hadoop integration with Kerberos and other tools like Microstrategy, Tableau etc.- POCs on Hadoop.- Perform Brown Bags/Training sessions on Hadoop to make users aware about new tools/features in Hadoop ecosystem
+See more
+
+Experience:1 yr 6 mos,7 mos,1 yr 7 mos,2 yrs 5 mos,2 yrs 5 mos,
+Skills:Unix,Hadoop,Perl,C++,Linux,Software Development,Distributed Systems,Java,C,Subversion,Solaris,Data Structures,XML,ClearCase,Python,Hive,Multithreading,Eclipse,CDH,High Performance Computing,APIs,

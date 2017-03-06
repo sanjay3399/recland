@@ -1,0 +1,5 @@
+Name:Vineet Ravi
+Headline:CTO
+Location:Greater Denver Area
+Experience:1 yr 5 mos,6 mos,10 mos,
+Skills:Data Warehousing,ETL,Informatica,SDLC,Business Intelligence,Data Modeling,Software Project Management,Requirements Analysis,Databases,Master Data Management,Oracle,SQL,Requirements Gathering,PL/SQL,Data Integration,SOA,Enterprise Architecture,Solution Architecture,Data Warehouse Architecture,Business Objects,OBIEE,Microsoft SQL Server,Unix,Extract, Transform, Load (ETL),Software Development Life Cycle (SDLC),CICS,Architectural Design,COBOL,Business Wareshouse,VisionPLUS,Mainframe,Project Management,Mainframes,VISION PLUS,Apache Pig,Consulting,Hadoop,Apache Spark,Product Development,Web Development,Entrepreneurship,Hive,Sqoop,Talend,QlikView,Data Science,Big Data Analytics,MapReduce,Machine Learning,Executive Management,

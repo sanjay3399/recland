@@ -1,0 +1,5 @@
+Name:Ashish Kudva
+Headline:Senior Consultant - Big Data/Hadoop at EY
+Location:Dallas/Fort Worth Area
+Experience:2 yrs 1 mo,1 yr 2 mos,6 mos,1 yr 1 mo,1 yr 5 mos,
+Skills:Java,Hadoop,Data Mining,JSP,Business Intelligence,SQL,Quality Control,Oracle,Testing,Cloud Computing,C++,Eclipse,SDLC,MySQL,Unix,Web Development,HTML,

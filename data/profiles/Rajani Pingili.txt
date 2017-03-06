@@ -1,0 +1,7 @@
+﻿Name:Rajani Pingili
+Headline:Senior Associate - Big Data at Cognizant
+Location:Phoenix, Arizona Area
+Summary:• 9 Years of accumulated experience that includes Big Data, Business Intelligence and Analytics, Java, SAP HCM ABAP, SAP HANA, WebDynpro (ABAP & Java), ETL, Unix, Linux, Oracle TOAD, Tableau, Qlikview, Grails and Groovy.
+
+Experience:1 yr 4 mos,6 mos,1 yr 10 mos,5 yrs 3 mos,8 mos,
+Skills:Java,Hadoop,Oracle,Web Services,Management,Spring Framework,Business Analysis,Hive,Microsoft Office,Apache Pig,MapReduce,Leadership,JavaScript,Solr,Hibernate,Python,ETL,Business Development,Amazon Web Services (AWS),Sales,Microsoft Excel,New Business Development,Program Management,Sqoop,Tableau,REST,Process Improvement,HDFS,Account Management,Representational State Transfer (REST),Extract, Transform, Load (ETL),Apache Kafka,Apache Storm,Flume,ElasticSearch,Apache ZooKeeper,ORM,Teradata,SAP HCM,ABAP,SAP HANA,SAP Implementation,ABAP Web Dynpro,Java Web Services,Java Enterprise Architecture,QlikView,

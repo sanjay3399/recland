@@ -1,0 +1,8 @@
+Name:Ajith Kumar Punnakula
+Headline:Lead Big Data Engineer at Equinix
+Location:San Francisco Bay Area
+Summary:• Total 9 years of experience in product and solutions development with 4 years of experience in Hadoop andSpark ecosystem and 9 years of experience with Java and database related technologies.• Experience in architecting solutions, leading teams and owning projects.• Experience building IoT Solution using Storm, Cassandra & Kafka for Data Center Infrastructure Management.• Experience in selecting and evaluating stacks based on business requirements.• Experience working with Hive and migration of projects to Hive.• Expertise in data modeling in NoSQL, MPP and RDBMS data bases.• Experience of developing in both Play and Spring Frameworks.• Expert level understanding of Map Reduce internals and experience with performance optimization of Hadoop applications.• Experience using Talend for Data Ingestion, Solr for searching and Tableau for visualization.• Experience developing UI with Bootstrap, JavaScript and AngularJS.• Experience developing applications for cloud foundry and working with Amazon AWS (Predix).• Experience working with open source development of Eclipse project Data Tools Platform (DTP).• Worked in scrum based agile methodology, Test Driven Development and waterfall model.• Deep understanding in the concepts of Algorithm and Data Structures
+See more
+
+Experience:11 mos,1 yr 1 mo,7 mos,5 yrs 3 mos,
+Skills:Big Data,Hadoop,Spark,Apache Storm,Cassandra,Apache Kafka,Hive,MapReduce,Java,Scala,Talend,Data Modeling,Solr,Tableau,Algorithms,Data Structures,Design Patterns,DB2,Oracle,Spring Framework,Apache Spark,AngularJS,Redis,Play Framework,Agile Methodologies,Python,

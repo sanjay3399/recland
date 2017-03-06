@@ -1,0 +1,7 @@
+Name:Jyothirani Bavandla
+Headline:Cloudera Certified Hadoop Developer
+Location:Dublin, California
+Summary:I am a cloudera certified senior hadoop developer. I work with Map Reduce, Hive, Pig, HDFS, Java and other big dataeco system tools.
+
+Experience:1 yr 4 mos,1 yr 5 mos,1 yr 6 mos,8 mos,
+Skills:Hadoop,Hive,Java,Sqoop,Apache Pig,MapReduce,Big Data,SQL,Oozie,Java Enterprise Edition,Software Development Life Cycle (SDLC),Web Services,Log4j,Spring Framework,Oracle,Hibernate,JavaScript,Map Reduce,J2EE Web Services,Unix,Databases,Apache Spark,Extract, Transform, Load (ETL),Software Development,Microsoft SQL Server,

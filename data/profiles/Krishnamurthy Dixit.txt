@@ -1,0 +1,8 @@
+Name:Krishnamurthy Dixit
+Headline:Agile Coach ★ Lead DevOps Consultant
+Location:Chicago, Illinois
+Summary:Subject Matter Expert (SME) in the area of Enterprise Agile and DevOpsSpecialization: ★ Agile Process & EngineeringCoaching, Enterprise Agile Transformation★ Process Orchestration using Jira, Rally, Microsoft TFS, IBM RTC, HP Agile Manager★ Enterprise Agile & DevOps: Coaching, Assessment, Consulting, Implementation, Customization★ Infrastructure Automation, Optimization: Chef, Docker and Cloud (Windows Azure)★ Tools Solution: Integration, Migration, Implementation, Customization & Rationalization★ Tools: GIT, Subversion, Jenkins, Maven, Nexus, SonarQube, CA Service Virtualization (LISA)
+See more
+
+Experience:3 yrs 8 mos,11 mos,2 yrs 3 mos,2 yrs 10 mos,1 yr 9 mos,
+Skills:DevOps,Scrum,Application Lifecycle Management,Scaled Agile Framework (SAFe),Agile Methodologies,TFS,SDLC,Software Configuration Management,Release Management,Visual Studio,SharePoint,Solution Architecture,Microsoft SQL Server,JIRA,Team Foundation Server (TFS),Software Development Life Cycle (SDLC),Requirements Analysis,Software Development,Software Project Management,Integration,Consulting,

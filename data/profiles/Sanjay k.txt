@@ -1,0 +1,8 @@
+Name:Sanjay k
+Headline:Sr. Hadoop/Devops Consultant
+Location:San Francisco Bay Area
+Summary:Senior-level technical product executive & technologist with global operations and development background.Comprehensive IT experience in Big Data domain with tools like Hadoop, Hive and other open source tools/technologies in Banking, Healthcare, Insurance, and Energy. Good understanding of NoSQL Databases and hands on work experience in writing applications on Nosql databases like Cassandra, Greenplum, Hbase and Mongodb. Substantial experience writing MapReduce jobs in Java, Pig, Flume, Zookeeper and Hive and Storm. Experience in Administration and development of Big Data projects using Hadoop, Hive, HDP, Pig, Flume, Storm and MapReduce open source tools/technologies. Extensive Knowledge on automation tools such as Puppet and Chef.Results oriented, technologist that combines an entrepreneurial spirit with corporate-refined execution
+See more
+
+Experience:2 yrs 1 mo,1 yr 2 mos,2 yrs 7 mos,3 yrs 4 mos,
+Skills:Hadoop,Hive,Apache Pig,Big Data,Amazon Web Services (AWS),Java,Nagios,Cassandra,SQL,Oracle,MapReduce,HBase,NoSQL,PL/SQL,Sqoop,MySQL,Linux,Apache Storm,Puppet,Flume,Apache ZooKeeper,Jenkins,Solr,Unix Administration,Apache Spark,Gemfire,Greenplum,Kerberos,LDAP,Shell Scripting,script,Bash,Oozie,Python,PostgreSQL,Distributed Systems,Tableau,QlikView,JDBC,ODBC,Informatica,Ganglia,Pivotal,DevOps,

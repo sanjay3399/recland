@@ -1,0 +1,5 @@
+Name:Anjan Reddy
+Headline:Hadoop Architect at Apple Inc.
+Location:San Francisco, California
+Experience:1 yr 5 mos,1 yr 4 mos,6 mos,4 yrs 1 mo,1 yr 8 mos,
+Skills:Hadoop,Big Data,SQL,Oracle,Shell Scripting,Unix,Java,MySQL,Python,Linux,Red Hat Linux,Cloud Computing,IBM AIX,Requirements Analysis,Hive,Databases,Data Warehousing,MapReduce,Apache Pig,Sqoop,Apache Spark,HBase,Flume,Distributed Systems,Oozie,Apache Kafka,Apache ZooKeeper,

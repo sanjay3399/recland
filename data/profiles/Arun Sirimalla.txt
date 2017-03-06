@@ -1,0 +1,5 @@
+Name:Arun Sirimalla
+Headline:Sr. Bigdata/AWS DevOps Engineer(Ping me for Bigdata/AWS/Security audit)
+Location:Portland, Oregon Area
+Experience:6 mos,
+Skills:Hadoop,HBase,Big Data,Cassandra,Amazon Web Services (AWS),Python,Apache Spark,Cyber-security,Data Science,Microsoft Azure,Internet of Things,Hive,Puppet,Linux,Tableau,Nagios,Windows Azure,Shell Scripting,Ganglia,Scalability,MapReduce,Flume,Apache Pig,Solr,MongoDB,Distributed Systems,Network Administration,MySQL,Splunk,Oozie,Perl,Cluster,Git,Jenkins,Chef,Unix Shell Scripting,Amazon EC2,zookeeper,Cfengine,DRBD,Gnuplot,NoSQL,Joomla,WordPress,

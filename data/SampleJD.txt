@@ -1,0 +1,48 @@
+Big Data Engineer/Senior Cluster Software Developer
+Location: Livermore, CA
+Duration: 6-18 Months
+
+
+Our Direct client looking for a Sr level Architect to do POC and the implement it if accepted. Consultant would show them a roadmap to store all the Data. They currently have 100s of sensors moving to 1000s and then hundreds of thousands of sensors in a couple years.All going to Oracle currently, need to set up Hadoop.
+
+The candidate will apply breadth and depth of knowledge to develop and improve high performance and Big Data Intensive (e.g. Hadoop/Spark) compute infrastructure and parallel file system environment. The work will not be clearly defined and is expected to be independent.
+Responsibilities
+Participate in the design and implementation of multiple Linux-based HPC, Hadoop/ Big Data Infrastructure and Parallel file system servers and clusters.
+Build, configure and maintain multiple RAID controllers and disk enclosures systems.
+Deploy and maintain Hadoop/Big Data and database storage Infrastructures.
+Monitor installation of software releases, patches of the operating system, third-party utilities with emphasis on overall system security.
+Monitor and implement Splunk / Nagios and other performance/monitoring technologies.
+Troubleshoot and determine root cause of complex system issues that may involve interfacing with various technical staff in multiple organizations and with differing levels of expertise.
+Respond to system problems and user questions in person, email and incident management system.
+Analyze and performance tune compute, network, file system and disk sub-systems.
+Investigate, evaluate, test and recommend technical solutions for future systems.
+Develop tools and procedures to monitor and automate system tasks on servers and clusters.
+Perform all assignments in accordance with the ES&H, security, and business practice requirements and policies.
+ 
+Required Qualifications
+BS in computer science or related field or equivalent level of demonstrated knowledge
+Extensive Linux/UNIX system administration experience.
+Demonstrated proficient communication, interpersonal skills, and ability to work and communicate effectively with other technical staff and end users across the Laboratory.
+Experience working in a rapidly changing environment with competing priorities and demonstrated ability to work effectively under limited guidance.
+Experience with Linux/Unix systems including installation, configuration, networking, backups, updates and patching, and system security.
+Experience with or knowledge of Big Data technologies such Hadoop MRv2, Yarn, Storm, Spark, HDFS, NFS, Lustre.
+Experience with software container technologies such as Docker and Singularity
+Demonstrated understanding of scripting and programming languages such as C/C++, Java, Perl, Python, Expect and bash/csh/ksh.
+Experience with disk and storage systems such as hosts based RAID controllers, software RAID and vendor RAID systems (eg., NetApp, HP, Hitachi, etc.).
+Experience with version control and configuration management systems such as Subversion, git, chef, puppet, cfengine, Atlassian Tools, etc.
+Experience with incident and bug management systems such as ServiceNow, bugzilla, Jira, etc.
+Ability to work off-hours and on-call (intermittently either as needed or as part of a rotation).
+Significant experience supporting multiple independent but inter-related systems and software packages.
+Significant experience with virtualization environments and tools such as libvirt, KVM,Vmware, etc.
+Significant experience using and developing solutions and plugins for monitoring systems such as Splunk or Nagios.
+Demonstrated ability to provide innovative solutions to broadly defined tasks and problems and to interact with system developers and vendors.
+Advanced verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information and provide advice to management.
+Demonstrated ability to work effectively with minimal guidance while using independent judgment.
+ 
+Desired Qualifications
+MS in Computer Science or related field with 8 years of related experience and demonstrated knowledge.
+Experience with local, parallel and distributed file systems such as Ext4, ZFS, GPFS, Lustre, PVFS, Gluster, etc.
+Experience with NAS platforms such as NetApp, HNAS, etc.
+Experience with database systems such as MySQL, Oracle, DB2, etc.
+Experience with container orchestration frameworks such as Kubernetes, Mesos, etc.
+Experience with IaaS technologies  AWS, OpenStack, etc.

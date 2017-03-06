@@ -1,0 +1,5 @@
+Name:Timir Shah
+Headline:Sr. Hadoop administrator at Kaiser Permanente
+Location:San Ramon, California
+Experience:1 yr 4 mos,6 mos,3 yrs 3 mos,
+Skills:Linux,Hadoop,Management,SQL,Unix,MySQL,Arcadia,Trifacta,Oracle,Microsoft Office,Technical Recruiting,Software Development Life Cycle (SDLC),Java,Leadership,SDLC,Customer Service,Vendor Management,AJAX,Maven,SOAP,EJB,NoSQL,Microsoft Excel,Apache Pig,Apache ZooKeeper,Networking,JIRA,Hive,Apache Kafka,Cloudera,Sqoop,Stash,Fisheye,Kerberos,Hue,

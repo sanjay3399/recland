@@ -1,0 +1,5 @@
+Name:Santosh Kumar
+Headline:Sr Staff Engineer
+Location:San Francisco Bay Area
+Experience:1 yr 10 mos,1 yr 11 mos,6 yrs,1 yr 3 mos,1 yr 3 mos,
+Skills:Hadoop,ETL,Data Science,Machine Learning,R,Big Data,Teradata,Oracle,Business Analysis,Hive,Cloud Computing,NoSQL,Data Warehousing,Apache Pig,HBase,Amazon Web Services (AWS),Team Mentoring,Technical Leadership,Informatica,BigData Admin.,Pig,Informatica Cloud,Informatica PowerCenter,Oracle 10g Database,Banking Domain,Cassandra,Statistical Data Analysis,Shell Scripting,Business Intelligence,PL/SQL,Banking,Data Analysis,Databases,Data Warehouse Architecture,MapReduce,SQL,Extract, Transform, Load (ETL),

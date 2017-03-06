@@ -1,0 +1,7 @@
+Name:Deep Kakkar
+Headline:Sr. Technical Product Manager - Data Identity, Security & Governance at GE Digital
+Location:San Francisco Bay Area
+Summary:Big Data Expert, Entrepreneur and Mentor. 10+ years experience in the enterprise IT operations and technicalprogram management. Helping companies build Secure Big Data and Predictive Analytics Platforms.
+
+Experience:11 mos,1 yr 2 mos,1 yr,6 mos,6 yrs,
+Skills:Program Management,Integration,Leadership,Business Development,Project Management,Management,Vendor Management,Networking,Requirements Analysis,Cloud Computing,IT Strategy,Public Speaking,Cross-functional Team Leadership,Analytics,Operations Management,Information Technology,Scrum,ITIL,Training,CRM,Quality Assurance,Agile Project Management,Recruiting,Process Improvement,Analysis,Software Documentation,Testing,Social Media Marketing,Project Planning,Big Data,SaaS,Human Resources,Outsourcing,Hadoop,Business Process,Entrepreneurship,Career Development,MapReduce,Product Management,Linux System Administration,Unix Shell Scripting,Corporate Communications,Cyber-security,Data Governance,

@@ -1,0 +1,5 @@
+Name:Rahul Mandal
+Headline:Technical Recruiter at FCS Software Solutions Ltd
+Location:Jersey City, New Jersey
+Experience:5 mos,
+Skills:Java,Networking,Oracle,HTML,SDLC,C++,C,MySQL,Android,Dreamweaver,Technical Recruiter,Objective-C,DBMS,Cocoa Touch,

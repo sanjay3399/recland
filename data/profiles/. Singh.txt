@@ -1,0 +1,5 @@
+Name:. Singh
+Headline:Sr. Python Developer
+Location:Boston, Massachusetts
+Experience:2 yrs 5 mos,2 yrs 10 mos,2 yrs 7 mos,1 yr 1 mo,
+Skills:Python,SQL,HTML,Java,CSS,C++,MySQL,XML,Java Enterprise Edition,Cascading Style Sheets (CSS),Agile Methodologies,Business Intelligence,JavaScript,Management,HTML5,REST,AJAX,Software Development Life Cycle (SDLC),CSS3,RESTful WebServices,MongoDB,Django,Apache,MVC,Amazon Web Services (AWS),

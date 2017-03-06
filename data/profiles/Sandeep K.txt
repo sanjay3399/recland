@@ -1,0 +1,5 @@
+Name:Sandeep K
+Headline:Certified Hadoop Consultant
+Location:San Francisco Bay Area
+Experience:1 yr 3 mos,1 yr 3 mos,1 yr 2 mos,1 yr 3 mos,2 yrs 6 mos,
+Skills:Cloudera Certified (CCAH ),Hadoop Administration,Apache Pig,Apache Kafka,Sqoop,Hadoop,Yarn,Hive,Oozie,Cloudera,Hortonworks,Control M,Linux System Administration,Java,Apache Spark,Apache ZooKeeper,Cloudera Manager,MySQL,HBase,Cassandra,Unix Administration,Unix Shell Scripting,Testing,Tableau,Jasper,QlikView,MapReduce,Kerberos,Technical Recruiting,Talent Acquisition,Benefits Negotiation,Internet Recruiting,Contract Recruitment,Vendor Management,SQL,Screening Resumes,

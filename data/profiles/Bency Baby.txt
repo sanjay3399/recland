@@ -1,0 +1,5 @@
+Name:Bency Baby
+Headline:Big Data Engineer at Capital One
+Location:Schaumburg, Illinois
+Experience:5 mos,1 yr 7 mos,1 yr 10 mos,2 yrs 9 mos,
+Skills:Oracle,Java,SQL,Java Enterprise Edition,PL/SQL,Databases,Hadoop,Integration,Struts,Shell Scripting,Hive,Hibernate,JSP,Big Data,Tomcat,JDBC,Weblogic,MapReduce,Unix Shell Scripting,Oozie,Impala,

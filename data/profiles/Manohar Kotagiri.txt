@@ -1,0 +1,8 @@
+Name:Manohar Kotagiri
+Headline:Sr Java Developer
+Location:Gainesville, Florida
+Summary:Good experience in all phases of Software Development Life Cycle (SDLC) including identification of business needsand constraints, collection of requirements, detailed design, implementation, testing, deployment and maintenance.Always Enthusiastic to learn new technologies.Strengths include Excellent interpersonal and communication skills,meet deadlines, quickly build client rapport and be a team player.
+See more
+
+Experience:2 yrs 3 mos,1 yr 9 mos,7 mos,1 yr 5 mos,1 yr 5 mos,
+Skills:Java,Spring Framework,Hibernate,SQL,Web Services,AngularJS,Java Enterprise Edition,Core Java,JavaScript,Oracle,SDLC,XML,Enterprise JavaBeans (EJB),JavaServer Faces (JSF),JavaServer Pages (JSP),WebSphere Application Server,WebLogic,Testing,Software Development Life Cycle (SDLC),HTML5,Cascading Style Sheets (CSS),jQuery,AJAX,SOAP,RESTful WebServices,Struts,Groovy,Gradle,Tortoise SVN,Git,JUnit,Tomcat,Eclipse,JIRA,Rally,Jenkins,Business Rule Management System (BRMS),

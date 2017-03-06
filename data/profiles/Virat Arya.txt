@@ -1,0 +1,8 @@
+Name:Virat Arya
+Headline:Hadoop Architect at Cetera Financial Group
+Location:Newbury Park, California
+Summary:• Total 12 years of Hadoop (Big Data), Java, DB2 & Mainframe Technologies experience• Executedsoftware projects for Retail, Finance, Logistics, Energy and Utilities industry• Excellent work experience with 40TB data on Data migration, Data Preprocessing, validations and Data Analysis in HDFS.• Exposure to work on Customer Door Ship POC to increase sales.• Experience in Big Data-Hadoop developer with varying level of expertise around different Hadoop projects like HBase, HDFS, Hive, Flume, ZooKeeper, Oozie, Pig. Good experience writing NoSQL and Hadoop MapReduce jobs.• Experience in development, enhancement and leading teams. Handled multiple roles – Hadoop Developer, Java and DB2 developer and Mainframe System Analyst.
+See more
+
+Experience:1 yr,6 mos,less than a year,less than a year,less than a year,
+Skills:Map Reduce,Hive,Apache Pig,Sqoop,Flume,Apache Spark,HDFS,NoSQL,Core Java,Scala,Eclips,DB2,Cassandra,CQL,Nodetool,CCM,SPUFI,QMF,REXX,Fileaid,Python,Application Architecture,JCL,ESP,RPM,RTC,IBM Certified DB2 DBA,CICS,REMEDY,PERIGRIN,HP Quality Center,MySQL,Oracle SQL Developer,Dev Center,SSIS,Performance Tuning,SDLC,Big Data,Solution Architecture,MapReduce,Hadoop,Databases,BMC Remedy,Requirements Analysis,Oracle,Spring,Apache ZooKeeper,Java,IBM DB2,

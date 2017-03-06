@@ -1,0 +1,5 @@
+Name:Rajan Rajendran
+Headline:Big data Architect/ Lead/ Engineer
+Location:San Francisco Bay Area
+Experience:1 yr 11 mos,1 yr 5 mos,13 yrs 1 mo,5 mos,2 yrs 1 mo,
+Skills:Unix,Java,Java Enterprise Edition,Hadoop,Amazon Web Services (AWS),Python,Oracle,SOA,Apache Spark,Enterprise Software,Agile Methodologies,Spring,Hive,Oozie,Tomcat,SDLC,Hibernate,Websphere,Scalability,Enterprise Architecture,JMS,Cassandra,REST,Distributed Systems,Weblogic,Software Project Management,Struts,Ant,JDBC,SOAP,JBoss Application Server,Agile Project Management,JavaScript,Maven,WebSphere MQ,Web Services,UML,HBase,Pig,MapReduce,Mahout,Data Science,Vertica,Machine Learning,Git,DB2,Pegasystems PRPC,.NET,Pega PRPC,Dropwizard,

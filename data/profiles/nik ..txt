@@ -1,0 +1,5 @@
+Name:nik .
+Headline:rails on ruby developer at Geico
+Location:Fredericksburg, Virginia
+Experience:2 yrs 5 mos,2 yrs 10 mos,1 yr,2 yrs 2 mos,
+Skills:Java,SQL,Ruby on Rails,HTML,SDLC,Software Development Life Cycle (SDLC),C,Microsoft Office,Requirements Analysis,MySQL,Agile Methodologies,Databases,Core Java,C++,Software Development,JavaScript,

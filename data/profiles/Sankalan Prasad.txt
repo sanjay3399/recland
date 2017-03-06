@@ -1,0 +1,5 @@
+Name:Sankalan Prasad
+Headline:Product Marketing
+Location:San Francisco Bay Area
+Experience:1 yr 11 mos,1 yr,3 mos,2 yrs,4 yrs 9 mos,
+Skills:Management Consulting,Marketing Strategy,Leadership,Business Development,Marketing,VLSI,VHDL,Verilog,C,C++,Analog Circuit Design,Perl,Matlab,Programming,SQL,Business Strategy,

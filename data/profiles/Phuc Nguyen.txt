@@ -1,0 +1,8 @@
+Name:Phuc Nguyen
+Headline:Recruiter
+Location:San Francisco Bay Area
+Summary:I believe in the power of ideas. Doing my part to manifest the best ideas and elevate our collective humanpotential. My passion lies at the intersection of interpersonal relationships, metaphysics, and happiness. I've spend the past 5+ years working in various areas including big data, cloud, network infrastructure, and embedded programming. Grateful to have the opportunity for growth. Let's connect!
+See more
+
+Experience:1 mo,7 mos,1 yr 6 mos,7 mos,1 yr 4 mos,
+Skills:Java,Technical Recruiting,Cloud Computing,Recruiting,Networking,Interviews,System Administration,SQL,Perl,Hadoop,Python,Customer Service,Management,Cold Calling,IT Service Management,Configuration Management,REST,PHP,Sourcing,SDLC,Screening,Contract Recruitment,Release Engineering,Business Analysis,Customer Relations,Quality Assurance,

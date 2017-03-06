@@ -1,0 +1,8 @@
+Name:Sivaprasad Pandeti
+Headline:Sr Bigdata Developer at Kelley Blue Book
+Location:Irvine, California
+Summary:Experienced Technical leader with a decade of experience in building and implementing large-scale datawarehouses, ETL and business intelligence platforms.Self professed Hadoop Entusiast, interested in opportunities to uncover Big Data value for clients.• Excellent problem solving, analytical and communication skills• Highly motivated, dynamic, self starter with keen interest in emerging technologies• Cloudera Certified Developer for Apache Hadoop (CCDH)• Expertise in system solution architecture and design• Proficient in application and infrastructure builds and implementation• Organizing, managing and leading teamsSkills:• Data warehousing • Business Intelligence • Big Data • SDLC methodologies • Working with Executives and Customers • Relationship building • Project management • People management • Leadership • Entrepreneurship • Hadoop • Hive • HBase • Pig • Sqoop • Cascading • Lingual • Flume • Spark • Amazon Web Services • Abinitio • Informatica • SQL • Oracle • Teradata • Business Objects • Talend • Autosys • Unix shell scripting • Python • HTML • CSS • JavaScript • C • Java • Scala
+See more
+
+Experience:11 mos,1 yr 3 mos,1 yr 3 mos,3 yrs 7 mos,3 yrs,
+Skills:Oracle,Amazon EC2,Amazon Redshift,SDLC,Amazon Web Services (AWS),Data Warehousing,Big Data,ETL,SQL,Business Intelligence,Java,Software Development Life Cycle (SDLC),Hadoop,Teradata,Extract, Transform, Load (ETL),PL/SQL,Ab Initio,Unix,Shell Scripting,Informatica,SOA,Solution Architecture,Cloud Computing,Core Java,Unix Shell Scripting,Data Modeling,Enterprise Architecture,

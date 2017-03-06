@@ -1,0 +1,8 @@
+Name:Benjamin Taub
+Headline:CEO Dataspace and Co-CEO at Alert.ly
+Location:Ann Arbor, Michigan
+Summary:Highly respected industry expert, strategist, and visionary. An approachable and collaborative partner with a keenunderstanding of best practices across industries and deep insights into the evolving DW and BI landscape. Accomplished author who has co-authored three significant books on data warehousing and business intelligence. Pioneered techniques for assessing corporate BI capabilities, linking BI success to business process design, and rapidly-delivering BI systems.Business Intelligence Strategy & Design • Data Warehouse Strategy & Architecture DesignBig Data Strategy • Analytic Strategy • Data Modeling and Data ArchitectureImplementation Management • Project Management
+See more
+
+Experience:1 yr,3 yrs,2 yrs,
+Skills:Business Intelligence,Data Warehousing,Data Warehouse Strategy & Architecture Design,Business Intelligence Strategy and Design,Data Warehouse Architecture,Data Modeling,Master Data Management,Big Data,Business Process,Microsoft SQL Server,Analytics,Business Process Design,Integration,ETL,Consulting,Sales Management,Management,Program Management,Data Governance,Business Analysis,Oracle,Data Analytics,Data Visualization,Relational Data Modeling,Star Schema,

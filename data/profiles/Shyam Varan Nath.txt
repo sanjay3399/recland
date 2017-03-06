@@ -1,0 +1,5 @@
+Name:Shyam Varan Nath
+Headline:Director - Technology Integrations (IoT / Industrial Internet) at GE Digital
+Location:San Ramon, California
+Experience:2 yrs 10 mos,
+Skills:Data Warehousing,Business Intelligence,Oracle,OBIEE,Databases,Enterprise Software,Big Data,Business Analysis,Analytics,Software Development,Integration,ERP,Data Modeling,Performance Tuning,Data Mining,ETL,CRM,Solution Architecture,Exadata,PL/SQL,Enterprise Architecture,Strategy,SDLC,Cloud Computing,Oracle E-Business Suite,EPM,Unix,Data Migration,Requirements Analysis,Data Warehouse Architecture,Software Project Management,Pre-sales,Start-ups,Data Integration,IT Strategy,Informatica,High Availability,Master Data Management,Oracle Applications,Database Design,Business Intelligence Tools,Data Quality,OBIEE 11g,Dashboard,Industrial Internet,Exalytics,SQL Tuning,OLAP,Internet of Things,Oracle Data Scientist,

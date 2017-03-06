@@ -1,0 +1,5 @@
+Name:Rajesh Bhagwat
+Headline:Vice President of Engineering at RASA Networks (now part of HPE)
+Location:San Francisco Bay Area
+Experience:2 yrs 3 mos,2 yrs 3 mos,8 yrs 3 mos,2 yrs 1 mo,3 yrs,
+Skills:Embedded Systems,WiFi,Device Drivers,Wireless,IEEE 802.11,Firmware,SoC,Embedded Software,RTOS,Linux Kernel,Software Engineering,Debugging,ASIC,ARM,Semiconductors,WLAN,Managing multiple locations,Bluetooth,Embedded Linux,RF,Digital Signal Processors,Distributed Systems,IC,TCL,
