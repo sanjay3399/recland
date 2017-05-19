@@ -54,18 +54,28 @@ def printProfile(profile):
     print profile['Relocate']
     print profile['Previous Title'], "\n"
 
-text = convertFormat(getText("data/SampleJD.docx"))
-text = getKeywords(text)
-JD = ' '.join(zip(*text)[0])
+def Match(filename, k):
+    text = convertFormat(getText(filename))
+    text = getKeywords(text)
+    JD = ' '.join(zip(*text)[0])
 
-PD = pd.read_csv('data/DataMiner-PD-filled.csv')
-PD.loc[PD["Pay rate"].isnull(),'Pay rate'] = "negotiable | negotiable"
-PD.loc[PD["Previous title"].isnull(),'Previous title'] = "N/A"
+    # TO BE USED IN CASE OF ACTUAL DATA
+    # PD = pd.read_csv('data/profiles.csv')
 
-PDlist = map(joinElemenets, PD.values.tolist())
-sims = map(cosine_sim, PDlist, itertools.repeat(JD, len(PDlist)))
+    # IN CASE OF PROTOTYPE/DUMMY DATA
+    PD = pd.read_csv('data/DataMiner-PD-filled.csv')
 
-sims = np.array(sims)
-topCandidates = sims.argsort()[-10:][::-1]
+    PD.loc[PD["Pay rate"].isnull(),'Pay rate'] = "negotiable | negotiable"
+    PD.loc[PD["Previous title"].isnull(),'Previous title'] = "N/A"
 
-print tabulate(PD.ix[topCandidates,:], headers='keys', tablefmt='psql')
+    PDlist = map(joinElemenets, PD.values.tolist())
+    sims = map(cosine_sim, PDlist, itertools.repeat(JD, len(PDlist)))
+
+    sims = np.array(sims)
+    topCandidates = sims.argsort()[-k:][::-1]
+
+    return tabulate(PD.ix[topCandidates,:], headers='keys', tablefmt='psql')
+
+if __name__ == '__main__':
+    top_candidates = Match(raw_input("Enter path for JD (Supported formats: .docx): "), 10)
+    print top_candidates
